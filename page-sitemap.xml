@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -20,84 +23,84 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/westbrook/</loc>
-		<lastmod>2025-02-06T01:47:25+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/saco/</loc>
-		<lastmod>2025-02-06T01:47:25+00:00</lastmod>
+		<lastmod>2025-02-07T00:19:23+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/biddeford/</loc>
-		<lastmod>2025-02-06T01:47:25+00:00</lastmod>
+		<lastmod>2025-02-07T00:19:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/south-portland/</loc>
-		<lastmod>2025-02-06T01:47:24+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/auburn/</loc>
-		<lastmod>2025-02-06T01:47:24+00:00</lastmod>
+		<loc>/westbrook/</loc>
+		<lastmod>2025-02-07T00:19:22+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/augusta/</loc>
-		<lastmod>2025-02-06T01:47:24+00:00</lastmod>
+		<lastmod>2025-02-07T00:19:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/south-portland/</loc>
+		<lastmod>2025-02-07T00:19:21+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/auburn/</loc>
+		<lastmod>2025-02-07T00:19:21+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/bangor/</loc>
-		<lastmod>2025-02-06T01:47:23+00:00</lastmod>
+		<lastmod>2025-02-07T00:19:20+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/caribou/</loc>
-		<lastmod>2025-02-06T01:47:23+00:00</lastmod>
+		<lastmod>2025-02-07T00:19:20+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/lewiston/</loc>
-		<lastmod>2025-02-06T01:47:23+00:00</lastmod>
+		<lastmod>2025-02-07T00:19:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/hallowell/</loc>
-		<lastmod>2025-02-06T01:47:22+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/millinocket/</loc>
-		<lastmod>2025-02-06T01:47:22+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/ellsworth/</loc>
-		<lastmod>2025-02-06T01:47:21+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/gardiner/</loc>
-		<lastmod>2025-02-06T01:47:21+00:00</lastmod>
+		<lastmod>2025-02-07T00:19:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rockland/</loc>
-		<lastmod>2025-02-06T01:47:21+00:00</lastmod>
+		<lastmod>2025-02-07T00:19:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/brunswick/</loc>
-		<lastmod>2025-02-06T01:47:20+00:00</lastmod>
+		<loc>/millinocket/</loc>
+		<lastmod>2025-02-07T00:19:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/waterville/</loc>
-		<lastmod>2025-02-06T01:47:20+00:00</lastmod>
+		<loc>/gardiner/</loc>
+		<lastmod>2025-02-07T00:19:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/somersworth/</loc>
-		<lastmod>2025-02-06T01:47:20+00:00</lastmod>
+		<lastmod>2025-02-07T00:19:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/sanford/</loc>
-		<lastmod>2025-02-06T01:47:19+00:00</lastmod>
+		<loc>/ellsworth/</loc>
+		<lastmod>2025-02-07T00:19:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/brunswick/</loc>
+		<lastmod>2025-02-07T00:19:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/waterville/</loc>
+		<lastmod>2025-02-07T00:19:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/scarborough/</loc>
-		<lastmod>2025-02-06T01:47:19+00:00</lastmod>
+		<lastmod>2025-02-07T00:19:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/sanford/</loc>
+		<lastmod>2025-02-07T00:19:11+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/portland/</loc>
-		<lastmod>2025-02-06T01:47:19+00:00</lastmod>
+		<lastmod>2025-02-07T00:19:11+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
